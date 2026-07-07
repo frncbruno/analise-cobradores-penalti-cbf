@@ -141,10 +141,13 @@ Além disso, fatores como liderança, confiança, momento psicológico e context
 
 O projeto gera gráficos comparando:
 
-- Aproveitamento bruto
-- Wilson Score
-- Número de cobranças
-- Comparação entre jogadores
+<img width="1280" height="1040" alt="image" src="https://github.com/user-attachments/assets/73af2a3c-6518-440b-a59a-4062ee455c81" />
+
+<img width="1520" height="960" alt="image" src="https://github.com/user-attachments/assets/c2171e15-04a1-4607-874f-ed39fd00a1c3" />
+
+<img width="1440" height="960" alt="image" src="https://github.com/user-attachments/assets/c630df6a-5168-4ff7-a7aa-7b8e0ad1a188" />
+
+
 
 ---
 
